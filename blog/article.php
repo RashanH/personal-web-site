@@ -62,7 +62,6 @@ $updatedviewcount = mysqli_real_escape_string($conn, $updatedviewcount) ;
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Introducing Lollipop, a sweet new take on Android.">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <title><?php echo $posttitle; ?> | Rashan Hasaranga's Official Website</title>
 
