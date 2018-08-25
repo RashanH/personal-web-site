@@ -20,8 +20,7 @@
     "https://www.linkedin.com/in/rashanhasa/",
     "http://twitter.com/rashanhasaranga",
     "https://soundcloud.com/rashan-hasaranga-perera",
-    "https://www.pinterest.com/rashanhasaranga/",
-    "https://plus.google.com/114165582710772054106"
+    "https://www.pinterest.com/rashanhasaranga/"
   ]
 }
 </script>
@@ -216,7 +215,7 @@
                     <div class="demo-crumbs mdl-color-text--grey-500">
               Rashan Hasaranga's Official Website &gt; Contact
             </div>
-                   
+
 
                   <div id="contactform">
 
