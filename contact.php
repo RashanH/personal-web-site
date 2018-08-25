@@ -1,4 +1,4 @@
-<!doctype html>
+<!doctype html$ git config --global user.email johndoe@example.com>
 
 <html lang="en">
 
@@ -18,7 +18,6 @@
     "http://facebook.com/rashan.original",
     "https://www.instagram.com/rashan.hasaranga/",
     "https://www.linkedin.com/in/rashanhasa/",
-    "http://twitter.com/rashanhasaranga",
     "https://soundcloud.com/rashan-hasaranga-perera",
     "https://www.pinterest.com/rashanhasaranga/"
   ]
